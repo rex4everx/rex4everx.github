@@ -52,7 +52,7 @@ nav ul li{
 nav ul li a{
     color:rgb(255,255,255  );
     font-weight: bold;
-    padding: 0 30px;
+    padding: 0 60px;
     text-decoration: none;
 }
 
@@ -67,7 +67,7 @@ nav ul li:active{background-color:rgb(48,48,48)}
   .box {
     /*margin: 0 10vw;*/
   }
-  
+
   .opss{
     text-align: center;
   }
@@ -92,16 +92,15 @@ nav ul li:active{background-color:rgb(48,48,48)}
   
   footer {
     margin-top: auto;
-    display: flex;
     align-items: center;
-    height: 13em;
     background: black;
     color: white;
     flex: 0 0 auto;
-    font-size: 90%;
+    font-size: 100%;
     text-align: center;
-    padding-left: 30%;
     width: 100%;
+    font-weight: bold;
+    text-decoration: none;
   }
 
   
